@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{C6481280-F013-4500-9BB2-2D160013A31E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualShots", "EqualShots\EqualShots.csproj", "{3B3A8EDA-FADF-415D-BF4F-B8DC479C99FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuriousCocktail", "FuriousCocktail\FuriousCocktail.csproj", "{8F5424CB-5B6A-4113-9FEB-26E183B90C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backspace", "Backspace\Backspace.csproj", "{27C88F84-C277-4355-8E98-9D0029AD7382}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6481280-F013-4500-9BB2-2D160013A31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6481280-F013-4500-9BB2-2D160013A31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6481280-F013-4500-9BB2-2D160013A31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6481280-F013-4500-9BB2-2D160013A31E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3A8EDA-FADF-415D-BF4F-B8DC479C99FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3A8EDA-FADF-415D-BF4F-B8DC479C99FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3A8EDA-FADF-415D-BF4F-B8DC479C99FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3A8EDA-FADF-415D-BF4F-B8DC479C99FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5424CB-5B6A-4113-9FEB-26E183B90C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5424CB-5B6A-4113-9FEB-26E183B90C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5424CB-5B6A-4113-9FEB-26E183B90C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5424CB-5B6A-4113-9FEB-26E183B90C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C88F84-C277-4355-8E98-9D0029AD7382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C88F84-C277-4355-8E98-9D0029AD7382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C88F84-C277-4355-8E98-9D0029AD7382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C88F84-C277-4355-8E98-9D0029AD7382}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

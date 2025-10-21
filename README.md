@@ -1,0 +1,7 @@
+# csharp
+
+## Build
+
+```
+dotnet build
+```
