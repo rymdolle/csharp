@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayMemorization", "Bir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineThemUp", "LineThemUp\LineThemUp.csproj", "{4DD96B74-10C1-49DD-BEAD-F221FBD1E623}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectricalOutlets", "ElectricalOutlets\ElectricalOutlets.csproj", "{15E6CA3C-68AD-40DC-952A-D849AC7226CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{4DD96B74-10C1-49DD-BEAD-F221FBD1E623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DD96B74-10C1-49DD-BEAD-F221FBD1E623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DD96B74-10C1-49DD-BEAD-F221FBD1E623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E6CA3C-68AD-40DC-952A-D849AC7226CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E6CA3C-68AD-40DC-952A-D849AC7226CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E6CA3C-68AD-40DC-952A-D849AC7226CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E6CA3C-68AD-40DC-952A-D849AC7226CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
